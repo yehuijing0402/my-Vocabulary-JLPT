@@ -1405,7 +1405,7 @@
   { "id": 1208, "word": "誘う", "reading": "さそう", "meaning": "邀请", "level": "N1", "example": "今度、彼女を食事に誘おう。", "example_meaning": "下次，我想约她去吃饭。" },
   { "id": 1209, "word": "未練", "reading": "みれん", "meaning": "依恋，恋恋不舍", "level": "N1", "example": "別れた恋人にまだ未練がある。", "example_meaning": "对分手的恋人还恋恋不舍。" },
   { "id": 1210, "word": "きっぱり", "reading": "きっぱり", "meaning": "断然，干脆", "level": "N1", "example": "彼にきっぱりと断られた。", "example_meaning": "被他断然拒绝了。" },
-  { "id": 1211, "word": "しつこい", "reading": "しつこい", "meaning": "烦人的", "level": "N1", "example": "彼はしつこく彼女に電話をかけている。", "example_meaning": "他끈질기게 그녀에게 전화를 걸고 있다." },
+  { "id": 1211, "word": "しつこい", "reading": "しつこい", "meaning": "烦人的", "level": "N1", "example": "彼はしつこく彼女に電話をかけている。", "example_meaning": "他狗皮膏药一般地给她打电话." },
   { "id": 1212, "word": "ばったり", "reading": "ばったり", "meaning": "突然遇见", "level": "N1", "example": "街でばったり昔の友達に会った。", "example_meaning": "在街上突然遇到了以前的朋友。" },
   { "id": 1213, "word": "気まずい", "reading": "きまずい", "meaning": "尴尬", "level": "N1", "example": "沈黙が続き、気まずい雰囲気になった。", "example_meaning": "沉默持续着，气氛变得很尴尬。" },
   { "id": 1214, "word": "そもそも", "reading": "そもそも", "meaning": "说起来，究竟", "level": "N1", "example": "そもそも、彼が遅刻したのが原因だ。", "example_meaning": "说起来，原因是他迟到了。" },
